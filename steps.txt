@@ -1,0 +1,5 @@
+1.feild to put job description
+2.upload pdf
+3.convert pdf to image
+4.processing by google gemini
+5.prompt template[multiple prompts]
